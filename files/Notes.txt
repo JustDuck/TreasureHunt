@@ -1,0 +1,38 @@
+Notes.
+
+For this exercise I used the jre1.8.0_181 with 
+Eclipse Java EE IDE for Web Developers.
+Version: Neon.3 Release (4.6.3)
+Build id: 20170314-1500
+
+Included are the following files:
+
+a. Example.java
+
+That program takes user input and processes those options via 6 case statements.
+There are 5 different methods:
+
+readInstructions
+readSampleInput
+readSampleOutput
+runTreasureHunt
+addToFile
+
+b. TreasureHunt.java
+
+Three text files used for input and output.
+They are: 
+
+c. SampleInput.txt, d. SampleOutput.txt, and e. TreasureHunt.txt
+
+The latter file basically entails the instructions as supplied
+
+Those 3 files are accessed by placing them in a directory on my system of:
+
+X:\text\ .  .. ... 
+
+f.  One excecutable jar file named as: TreasureHunt.jar
+
+I can be run as: java -jar TreasureHunt.jar
+
+Please note that I have referenced its source.
